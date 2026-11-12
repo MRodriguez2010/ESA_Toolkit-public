@@ -1,5 +1,7 @@
 # Employee Sentiment Analysis Toolkit
 
+**Employee Sentiment Analysis project family:** [Project guide](https://github.com/MRodriguez2010/Revelio/blob/main/docs/employee-sentiment-analysis-projects.md) · [Revelio interactive demo](https://github.com/MRodriguez2010/Revelio)
+
 An intake workbook lets an analyst review counts before passing them to a reporting pipeline. This public adaptation includes a desktop file picker, a reproducible fictional workbook and a CLI for batch validation. Input fields are company, quarter, topic, favorable answers and total answers.
 
 ```sh
